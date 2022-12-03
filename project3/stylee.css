@@ -23,7 +23,7 @@
 
 .foto {
     background-image: url(images/anime.jpg);
-    width: 1440px;
+    background-size: cover;
     height: 1080px;
 }
 
@@ -50,12 +50,7 @@
 
 .text {
     margin: 110px 80px;
-    display: flex;
-    
     width: 1280px;
-    height: 637px;
-
-    flex-direction: column;
 }
 
 .zagolovok {
