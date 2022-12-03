@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu {
+    padding: 80px;
+    color: #fff;
+    background-color: #E5E000;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.fio {
+    font-family: 'Helvetica';
+    font-size: 50px;
+    line-height: 57px;
+    align-items: center;
+    display: flex;
+    margin-left: 80px;
+}
+
+.foto {
+    background-image: url(images/anime.jpg);
+    width: 1440px;
+    height: 1080px;
+}
+
+.pod-foto { 
+    padding: 36px 80px;
+    color: #fff;
+    background-color: #E5E000;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.info {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    justify-content: flex-start;
+    display: flex;
+
+    margin-left: 80px;
+}
+
+.text {
+    margin: 110px 80px;
+    display: flex;
+    
+    width: 1280px;
+    height: 637px;
+
+    flex-direction: column;
+}
+
+.zagolovok {
+    margin-bottom: 80px;
+    margin-left: 80px;
+    display: flex;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 57px;
+    
+    color: black;
+}
+
+.p1 {margin-bottom: 80px;
+    margin-left: 80px;
+    
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #000000;
+}
+
+.p2 {
+    margin-bottom: 80px;
+    margin-left: 80px;
+   
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #000000;
+}
+
+.p3 {
+    margin-bottom: 80px;
+    margin-left: 80px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-size: 50px;
+    line-height: 57px;
+
+    color: #000000;
+}
+
+.footer { 
+    padding: 77px 80px;
+    color: #fff;
+    background-color: #E5E000;
+    display: flex;
+
+    justify-content: space-between;
+    position: initial;
+
+}
+
+.footer-logo {
+    width: 205px;
+    height: 46px;
+
+    margin-left: 80px;
+}
+
+.footer-text {
+    font-family: 'Helvetica';
+    font-size: 50px;
+    line-height: 57px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #FFFFFF;
+
+    margin-right: 80px;
+}
+
+
+
+
+
+
+
+
+
